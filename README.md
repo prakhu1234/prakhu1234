@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prakhu1234
-- 👀 I’m interested in Working with Machine,Building apps
-- 🌱 I’m currently learning Data Structures,Backend Develepment,frontend development.
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Data Structures,frontend development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
